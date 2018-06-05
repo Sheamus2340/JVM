@@ -18,7 +18,7 @@ public class Child extends Parent {
 
     public static final int sam = 20;
 
-  /*  public static void main(String[] args) {
+    public static void main(String[] args) {
         Child child = new Child();
-    }*/
+    }
 }
